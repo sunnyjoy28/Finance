@@ -1,0 +1,4 @@
+Images to include in PPT:
+/mnt/data/original-889328e2d17a2e752e01ffaad34c3ed7.webp
+/mnt/data/c1e0a6c21cd9989fe6e51ee2572775df.webp
+/mnt/data/3854d65d441baac0389940484aeea507.webp
