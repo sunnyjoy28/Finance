@@ -1,0 +1,1 @@
+export default function App(){return <h1>Finance Dashboard Frontend (No DB)</h1>}
